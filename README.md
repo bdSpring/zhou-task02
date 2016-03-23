@@ -4,3 +4,8 @@
 
 * 代码地址：https://github.com/bdSpring/zhou-task02/blob/master/1/index.html
 * Demo地址：http://bdSpring.github.io/zhou-task02/1/index.html
+
+任务十四：零基础JavaScript编码（二） 
+
+* 代码地址：https://github.com/bdSpring/zhou-task02/blob/master/2/index.html
+* Demo地址：http://bdSpring.github.io/zhou-task02/2/index.html
