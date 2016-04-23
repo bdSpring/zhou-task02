@@ -19,16 +19,13 @@ function addAqiData() {
   var city = document.getElementById("aqi-city-input").value.trim();
   var value = document.getElementById("aqi-value-input").value.trim();
 
-  if (city == " " || value == " ") {
-    alert("值不能为空！");
-    return false;
-  } else if (Math.floor(value) !== value ) {
-    alert("空气质量指数不能为非整数！");
-    return false;
-  } else if (!city.match(/^[\u4e00-\u9fa5|a-zA-Z]*$/)) {
+  if (!city.match(/^[\u4e00-\u9fa5|a-zA-Z]*$/)) {
     alert("城市必须为中英文！");
     return false;
-  }
+  } else if (Math.floor(parseFloat(value)) !== parseFloat(value) ) {
+    alert("空气质量指数不能为非整数！");
+    return false;
+  } 
 
 }
 
