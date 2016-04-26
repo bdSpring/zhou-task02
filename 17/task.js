@@ -120,7 +120,7 @@ function initAqiChartData() {
     chartData[city] = city;
   }
 
-  console.log(chartData)
+  console.log(chartData);
 
 }
 
