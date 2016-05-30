@@ -4,6 +4,28 @@
     <meta charset="utf-8">
     <title>IFE JavaScript Task 01</title>
     <script src="task.js"></script>
+    <style>
+      .aqi-chart-wrap {
+        box-sizing: border-box;
+        margin-top: 20px;
+        height: 600px;
+        width: 100%;
+        border: 1px solid #000000;
+        overflow: hidden;
+      }
+      .aqi-chart-wrap div {
+        position: relative;
+        float: left;
+        height: 100%;
+      }
+      .aqi-chart-wrap div p {
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+        border: 1px solid black;
+        background-color: red;
+      }
+    </style>
   </head>
 <body>
   <fieldset id="form-gra-time">
@@ -20,8 +42,8 @@
     </select>
   </fieldset>
 
-  <div class="aqi-chart-wrap">
-
+  <div class="aqi-chart-wrap" id="aqi-chart-wrap">
+    
   </div>
 </body>
 </html>
