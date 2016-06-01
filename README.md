@@ -17,22 +17,22 @@
 
 任务十六：零基础JavaScript编码（四） 
 
-* 代码地址：https://github.com/bdSpring/zhou-task02/blob/master/16/index.html
+* 代码地址：https://github.com/bdSpring/zhou-task02/blob/master/16/task.js
 * Demo地址：http://bdSpring.github.io/zhou-task02/16/index.html
 
 任务十七：零基础JavaScript编码（五） 
 
-* 代码地址：https://github.com/bdSpring/zhou-task02/blob/master/17/task.html
+* 代码地址：https://github.com/bdSpring/zhou-task02/blob/master/17/task.js
 * Demo地址：http://bdSpring.github.io/zhou-task02/17/task.html
 
 任务十八：基础JavaScript练习（一） 
 
-* 代码地址：https://github.com/bdSpring/zhou-task02/blob/master/18/index.html
+* 代码地址：https://github.com/bdSpring/zhou-task02/blob/master/18/task.js
 * Demo地址：http://bdSpring.github.io/zhou-task02/18/index.html
 
 任务十九：基础JavaScript练习（二） 
 
-* 代码地址：https://github.com/bdSpring/zhou-task02/blob/master/19/task.html
+* 代码地址：https://github.com/bdSpring/zhou-task02/blob/master/19/task.js
 * Demo地址：http://bdSpring.github.io/zhou-task02/19/task.html
 
 任务三十三：听指令的小方块（一） （α版）
