@@ -1,0 +1,30 @@
+* {
+  font-family: "微软雅黑";
+}
+.tag-wrap,
+.hobby-wrap {
+  margin-top: 10px;
+  overflow: hidden;
+} 
+.tag-wrap .block, 
+.hobby-wrap .block {
+  float: left;
+  margin-right: 10px;
+  margin-top: 10px;
+  padding:5px;
+  color: #FFFFFF;
+  background-color: #8BC9FF;
+  cursor: pointer;
+}
+.tag-wrap .block span, 
+.hobby-wrap .block span {
+  display: none;
+  margin-right: 5px;
+}
+.hobby-box {
+  margin-top: 10px;
+} 
+.hobby-box textarea {
+  display: block;
+  margin-bottom: 10px;
+}
