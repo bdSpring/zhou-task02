@@ -37,8 +37,23 @@
 
 任务二十：基础JavaScript练习（三） 
 
-* 代码地址：https://github.com/bdSpring/zhou-task02/blob/master/19/task.js
-* Demo地址：http://bdSpring.github.io/zhou-task02/19/task.html
+* 代码地址：https://github.com/bdSpring/zhou-task02/blob/master/20/task.js
+* Demo地址：http://bdSpring.github.io/zhou-task02/20/task.html
+
+任务二十一：基础JavaScript练习（四） 
+
+* 代码地址：https://github.com/bdSpring/zhou-task02/blob/master/21/demo
+* Demo地址：http://bdSpring.github.io/zhou-task02/21/demo/task.html
+
+任务二十六：基础JavaScript练习（四） 
+
+* 代码地址：https://github.com/bdSpring/zhou-task02/blob/master/26/src
+* Demo地址：http://bdSpring.github.io/zhou-task02/26/index.html
+
+任务二十九：表单（一）单个表单项的检验 
+
+* 代码地址：https://github.com/bdSpring/zhou-task02/blob/master/29
+* Demo地址：http://bdSpring.github.io/zhou-task02/29/task.html
 
 任务三十三：听指令的小方块（一） （α版）
 

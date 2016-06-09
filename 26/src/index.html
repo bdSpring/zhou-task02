@@ -1,0 +1,75 @@
+<!DOCTYPE>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>宇宙飞船发射系统</title>
+    <link rel="stylesheet" href="./css/style.css">
+  </head>
+<body>
+  <div class="cosmos-wrap">
+    <div class="planet"></div>
+    <div class="track line-1">
+      <div class="airship no-1">
+        <div class="head"></div>
+        <div class="body">1号-<span>100</span>%</div>
+      </div>
+    </div>
+    <div class="track line-2">
+      <div class="airship no-2">
+        <div class="head"></div>
+        <div class="body">2号-<span>100</span>%</div>
+      </div>
+    </div>
+    <div class="track line-3">
+      <div class="airship no-3">
+        <div class="head"></div>
+        <div class="body">3号-<span>100</span>%</div>
+      </div>
+    </div>
+    <div class="track line-4">
+      <div class="airship no-4">
+        <div class="head"></div>
+        <div class="body">4号-<span>100</span>%</div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="command-box" id="command-box">
+    <div class="command-line">
+      <span>对1号飞船下达指令：</span>
+      <button class="flybtn">开始飞行</button>
+      <button class="sflybtn">停止飞行</button>
+      <button class="destroy">销毁</button>
+    </div>   
+    <div class="command-line">
+      <span>对2号飞船下达指令：</span>
+      <button class="flybtn">开始飞行</button>
+      <button class="sflybtn">停止飞行</button>
+      <button class="destroy">销毁</button>
+    </div>
+    <div class="command-line">
+      <span>对3号飞船下达指令：</span>
+      <button class="flybtn">开始飞行</button>
+      <button class="sflybtn">停止飞行</button>
+      <button class="destroy">销毁</button>
+    </div>   
+    <div class="command-line">
+      <span>对4号飞船下达指令：</span>
+      <button class="flybtn">开始飞行</button>
+      <button class="sflybtn">停止飞行</button>
+      <button class="destroy">销毁</button>
+    </div>     
+    <button id="newship">发射飞船</button>
+  </div>
+
+  <div class="console" id="console">
+    <h1>Console 控制台</h2>
+    <div class="msgbox">
+    </div>
+  </div>
+  <script src="./js/common.js"></script>
+  <script src="./js/console.js"></script>
+  <script src="./js/airship.js"></script>
+  <script src="./js/basic.js"></script>
+</body>
+</html>
