@@ -1,0 +1,45 @@
+<!DOCTYPE>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>IFE JavaScript Task 01</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="common.js"></script>
+    <script src="task.js"></script>
+  </head>
+<body>
+  <div id="tag-box">
+      
+    <label for="tag">Tag:</label>
+    <input type="text" id="tagname">
+    
+    <div class="tag-wrap" id="tag-wrap">
+<!--       <div class="tag-block">nodejs</div>
+      <div class="tag-block">HTML5</div>
+      <div class="tag-block">JavaScript</div> -->
+    </div>
+  </div>
+  
+  <div class="hobby-box">
+    
+    <textarea name="" id="hobbyctn" cols="30" rows="10"></textarea>
+
+    <button id="hbtn">确认兴趣爱好</button>
+    <div class="hobby-wrap" id="hobby-wrap">
+      <div class="block">nodejs</div>
+      <div class="block">HTML5</div>
+      <div class="block">JavaScript</div>
+    </div>
+  </div>
+
+  <script>
+    var tag = new Queue(["nodejs","react","ES6"],"tag-wrap","tagname");
+    tag.initTagIpt();
+    tag.init();
+
+    var hobby = new Queue([],"hobby-wrap","hbtn");
+    hobby.initHobbyBtn();
+    hobby.init();
+  </script>
+</body>
+</html>
