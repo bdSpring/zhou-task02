@@ -52,7 +52,7 @@
 
 任务二十九：表单（一）单个表单项的检验 
 
-* 代码地址：https://github.com/bdSpring/zhou-task02/blob/master/29/
+* 代码地址：https://github.com/bdSpring/zhou-task02/blob/master/29
 * Demo地址：http://bdSpring.github.io/zhou-task02/29/task.html
 
 任务三十三：听指令的小方块（一） （α版）
