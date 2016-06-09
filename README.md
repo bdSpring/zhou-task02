@@ -45,10 +45,10 @@
 * 代码地址：https://github.com/bdSpring/zhou-task02/blob/master/21/demo
 * Demo地址：http://bdSpring.github.io/zhou-task02/21/demo/task.html
 
-任务二十六：基础JavaScript练习（四） 
+任务二十六：行星与飞船（一） 
 
 * 代码地址：https://github.com/bdSpring/zhou-task02/blob/master/26/src
-* Demo地址：http://bdSpring.github.io/zhou-task02/26/index.html
+* Demo地址：http://bdSpring.github.io/zhou-task02/26/src/index.html
 
 任务二十九：表单（一）单个表单项的检验 
 
