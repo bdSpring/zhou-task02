@@ -1,0 +1,83 @@
+* {
+  font-family: "微软雅黑";
+}
+.clearfix:after {
+  content: "."; 
+  display: block; 
+  height: 0; 
+  visibility:hidden;
+  clear: both; 
+}
+.clearfix { 
+  *zoom:1; 
+}
+.content {
+  margin-top: 100px;
+  margin-left: 100px;
+  width: 450px;
+}
+.input-box {
+  float: right;
+  width: 100%;
+  margin-bottom: 15px;
+}
+.input-box label {
+  display: inline-block;
+  width: 100px;
+  text-align: right;
+  margin-right: 20px;
+}
+.input-box input {
+  width: 300px;
+  height: 35px;
+  padding: 0 10px;
+  border-radius: 5px;
+  -moz-border-radius: 5px; 
+  -webkit-border-radius: 5px; 
+  outline: 0;
+}
+.input-box p {
+  display: none;
+  float: right;
+  width: 300px;
+  height: 30px;
+  margin: 0;
+  margin-right: 20px;
+  margin-top: 5px;
+  font-size: 14px;
+  font-weight: 700;
+}
+.content .subbtn {
+  float: right;
+  width: 80px;
+  height: 35px;
+  margin-left: 10px;
+  margin-right: 30px;
+  font-size: 16px;
+  color: #FFFFFF;
+  border-radius: 5px;
+  -moz-border-radius: 5px; 
+  -webkit-border-radius: 5px; 
+  border: 0;
+  outline: 0;
+  background-color: #2F79BA;
+  cursor: pointer;
+}
+.text-default {
+  color: #A8A8A8;
+}
+.text-warning {
+  color: #D80017;
+}
+.text-success {
+  color: #69BA51;
+}
+.ipt-default {
+  border: 2px solid #A8A8A8;
+}
+.ipt-warning {
+  border: 2px solid #D80017;
+}
+.ipt-success {
+  border: 2px solid #69BA51;
+}

@@ -43,7 +43,7 @@
 任务二十一：基础JavaScript练习（四） 
 
 * 代码地址：https://github.com/bdSpring/zhou-task02/blob/master/21/demo
-* Demo地址：http://bdSpring.github.io/zhou-task02/21/demo/task.html
+* Demo地址：http://bdSpring.github.io/zhou-task02/21/demo/index.html
 
 任务二十六：行星与飞船（一） 
 
@@ -54,6 +54,11 @@
 
 * 代码地址：https://github.com/bdSpring/zhou-task02/blob/master/29
 * Demo地址：http://bdSpring.github.io/zhou-task02/29/task.html
+
+任务三十：表单（二）多个表单项的动态校验
+
+* 代码地址：https://github.com/bdSpring/zhou-task02/blob/master/30
+* Demo地址：http://bdSpring.github.io/zhou-task02/30/task.html
 
 任务三十三：听指令的小方块（一） （α版）
 
