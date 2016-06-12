@@ -40,10 +40,8 @@ function trimStr(str){
  * 初始化表单事件
  */
 function initForm() {
-
   var form = document.getElementById("form");
   var subBtn = document.getElementById("sbtn");
-
   // 绑定输入框聚焦事件
   eventUtil.addHandler(form, "focus", function(e){
     if (e.target.nodeName.toLowerCase() === 'input') {
@@ -63,7 +61,6 @@ function initForm() {
 
   // 绑定提交按钮事件
   eventUtil.addHandler(subBtn, "click", function(e){
-    
     var allIpt = document.getElementById("form").getElementsByTagName("input");
     var arrayOfallIpt = Array.prototype.slice.call(allIpt,0);
     arrayOfallIpt.forEach(function(item, index) {
@@ -166,25 +163,6 @@ function showRuleTip(id) {
   var showTip = getTipNode(id);
   showTip.style.display = "block";
   showTip.className = "text-default";
-  switch (id)
-  {
-    case "name":
-      showTip.innerHTML = "必填，长度为4~16个字符";
-      break;
-    case "pwd":
-      showTip.innerHTML = "必填，长度为6~16个字符";
-      break;
-    case "cpwd":
-      showTip.innerHTML = "再次输入相同密码";
-      break;
-    case "mail":
-      showTip.innerHTML = "必填，请输入正确的邮箱地址";
-      break;
-    case "mobile":
-      showTip.innerHTML = "必填，请输入11位手机号码";
-      break;
-  }
-
 }
 
 /*
