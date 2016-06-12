@@ -60,6 +60,11 @@
 * 代码地址：https://github.com/bdSpring/zhou-task02/blob/master/30
 * Demo地址：http://bdSpring.github.io/zhou-task02/30/task.html
 
+任务三十一：表单（三）联动
+
+* 代码地址：https://github.com/bdSpring/zhou-task02/blob/master/31
+* Demo地址：http://bdSpring.github.io/zhou-task02/31/task.html
+
 任务三十三：听指令的小方块（一） （α版）
 
 * 代码地址：https://github.com/bdSpring/zhou-task02/blob/master/33/task.html
